@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/triftflip/static/css/main.073c9b0a.css",
-    "main.js": "/triftflip/static/js/main.64c53ff1.js",
-    "static/js/787.c199b7c7.chunk.js": "/triftflip/static/js/787.c199b7c7.chunk.js",
-    "index.html": "/triftflip/index.html",
-    "main.073c9b0a.css.map": "/triftflip/static/css/main.073c9b0a.css.map",
-    "main.64c53ff1.js.map": "/triftflip/static/js/main.64c53ff1.js.map",
-    "787.c199b7c7.chunk.js.map": "/triftflip/static/js/787.c199b7c7.chunk.js.map"
+    "main.css": "/triftflip.github.io/static/css/main.073c9b0a.css",
+    "main.js": "/triftflip.github.io/static/js/main.fb7018ee.js",
+    "static/js/787.c199b7c7.chunk.js": "/triftflip.github.io/static/js/787.c199b7c7.chunk.js",
+    "index.html": "/triftflip.github.io/index.html",
+    "main.073c9b0a.css.map": "/triftflip.github.io/static/css/main.073c9b0a.css.map",
+    "main.fb7018ee.js.map": "/triftflip.github.io/static/js/main.fb7018ee.js.map",
+    "787.c199b7c7.chunk.js.map": "/triftflip.github.io/static/js/787.c199b7c7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.64c53ff1.js"
+    "static/js/main.fb7018ee.js"
   ]
 }
